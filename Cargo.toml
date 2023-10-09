@@ -40,5 +40,9 @@ name = "2022-05"
 path = "src/2022/day05/sol.rs"
 
 [[bin]]
+name = "2022-06"
+path = "src/2022/day06/sol.rs"
+
+[[bin]]
 name = "2022-11"
 path = "src/2022/day11/sol.rs"
