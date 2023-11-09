@@ -18,6 +18,16 @@ name = "2015-02"
 path = "src/2015/day02/sol.rs"
 
 
+# Year 2020
+[[bin]]
+name = "2020-01"
+path = "src/2020/day01/sol.rs"
+
+[[bin]]
+name = "2020-02"
+path = "src/2020/day02/sol.rs"
+
+
 # Year 2022
 [[bin]]
 name = "2022-01"
@@ -42,6 +52,10 @@ path = "src/2022/day05/sol.rs"
 [[bin]]
 name = "2022-06"
 path = "src/2022/day06/sol.rs"
+
+[[bin]]
+name = "2022-07"
+path = "src/2022/day07/sol.rs"
 
 [[bin]]
 name = "2022-11"
